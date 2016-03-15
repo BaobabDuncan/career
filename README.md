@@ -2,7 +2,7 @@
 - 450대의 서버에 openstack 구성(2012년)
   - devstack 이용
   - chef와 fabric를  이용한 배포 자동화
-  - [오픈 스택을 이용한 클라우드 컴퓨팅 환경 구성](https://www.youtube.com/watch?v=G1rl_6oa-4o)
+  - [오픈 스택을 이용한 클라우드 컴퓨팅 환경](https://www.youtube.com/watch?v=G1rl_6oa-4o)
 - 사내 openstack 관리(2016~)
   - Liberty 구성(현재 8대의 노드)
   - neutron + cinder
@@ -31,6 +31,24 @@
 - Django girls in seoul(2015년)
   - 코치 참여
   - [site](https://djangogirls.org/seoul/)
+
+## Projects
+- Guiness Korea(2011년)
+  - 스마트폰 앱을 통해 기네스 맥주를 마시는 사람들에게 간다한 SNS 기능과 기네스 맥주에 대한 정보를 알려주는 것으로 안드로이드와 아이폰 버전 2가지를 모두 개발
+
+## Government projects
+- 증강현실을 이용한 관광 시스템 개발-MOIBA(2010년)
+  - 증강현실을 이용한 광광시스템 개발
+  - Python-Django를 이용한 Backend
+- 사무환경을 위한 Smart Grid 솔루션-한국에너지기술평가원(2011~2013년)
+  - 기축건물에 적용가능한 스마트 그리드를 개발
+  - Python-Django를 이용한 Backend
+- IT시스템을 이요한 IDC 전력절감-정보통신진흥원(2012년)
+  - Openstack 설치 및 환경설정
+  - Python-Django를 이용한 Monitoring Tool
+  - Front end 개발
+- 스마트 e폼 서비스 플랫폼과 마켓플레이스-미래창조과학부(2015~)
+  - 전자문서 생성-활용에서 폐기까지 라이프 사이클을 지원하는 애플리케이션 클라우드 서비스 개발
 
 ## Hybrid App
 - 아이폰 앱 개발 및 마켓 등록(2011년)
