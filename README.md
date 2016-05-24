@@ -3,12 +3,11 @@
   - 스마트​폰의 GPS를 이용하​여 당신이 있는 바로 그 지역에 있는 급친(​급하게 만난 친구)​들을 소개시​켜줍니​다.
   - Python-Django를 이용한 Backend
   - Hybrid App
-  - [밋나우 사용법1](https://www.youtube.com/watch?v=yC-kjcDw6vo)
-  - [밋나우 사용법2](https://www.youtube.com/watch?v=Nq9zj_1m7g8)
+  - [밋나우 사용법1](https://www.youtube.com/watch?v=yC-kjcDw6vo), [밋나우 사용법2](https://www.youtube.com/watch?v=Nq9zj_1m7g8)
 - 증강현실을 이용한 관광 시스템 개발-MOIBA(2010년)
   - 증강현실을 이용한 광광시스템 개발
   - Python-Django를 이용한 Backend
-- Guiness Korea(2011년)
+- Guinness Korea(2011년)
   - 스마트폰 앱을 통해 기네스 맥주를 마시는 사람들에게 간다한 SNS 기능과 기네스 맥주에 대한 정보를 알려주는 것으로 안드로이드와 아이폰 버전 2가지를 모두 개발
 
 ## Government projects
@@ -32,7 +31,7 @@
     - [vss2git](https://github.com/trevorr/vss2git) 수정하여 사용
   - 사내 테스트 자동화(2016년)
     - 자동 빌드 시스템과 연동
-    - cppcheck, pmd, jshint, junit, emma, testlink
+    - cppcheck, pmd, jshint, junit, emma, testlink 등
 
 ## OPENSTACK
 - 450대의 서버에 openstack 구성(2012년)
