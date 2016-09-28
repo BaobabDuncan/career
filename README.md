@@ -21,17 +21,21 @@
 - 스마트 e폼 서비스 플랫폼과 마켓플레이스-미래창조과학부(2015~)
   - 전자문서 생성-활용에서 폐기까지 라이프 사이클을 지원하는 애플리케이션 클라우드 서비스 개발
   - 설계 & 테스트 방안 및 구축
+  - aws 가이드 및 로깅 전략
 
 ## Continuous Integration
-  - 사내 자동 빌드 시스템 구축 및 관리(2014~)
-    - Jenkins(1 master, 8 nodes)
-    - 구축, 정책, 관리
-  - sourcesafe to git migration(2015년)
-    - sourcesafe 사이즈 12GB
-    - [vss2git](https://github.com/trevorr/vss2git) 수정하여 사용
-  - 사내 테스트 자동화(2016년)
-    - 자동 빌드 시스템과 연동
-    - cppcheck, pmd, jshint, junit, emma, testlink 등
+- 사내 자동 빌드 시스템 구축 및 관리(2014~)
+  - Jenkins(1 master, 8 nodes)
+  - 구축, 정책, 관리
+- sourcesafe to git migration(2015년)
+  - sourcesafe 사이즈 12GB
+  - [vss2git](https://github.com/trevorr/vss2git) 수정하여 사용
+- 사내 테스트 자동화(2016년)
+  - 자동 빌드 시스템과 연동
+  - cppcheck, pmd, jshint, junit, emma, testlink 등
+- 사내 자동 호환성 테스트 시스템(2016년)
+  - 자동 호환성 테스트를 실행하고 검수할 수 있는 시스템 구성
+  - 하루에 총 3개 제품 3개의 포맷에 대해 총 17,574개의 테스트 수행(2016.09.28 기준)
 
 ## OPENSTACK
 - 450대의 서버에 openstack 구성(2012년)
@@ -68,3 +72,5 @@
 - Django girls in seoul(2015년)
   - 코치 참여
   - [site](https://djangogirls.org/seoul/)
+- 비즈니스애널리스트포럼(2016년~)
+  - BAPF 회원으로 참여
