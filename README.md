@@ -30,6 +30,9 @@
 - sourcesafe to git migration(2015년)
   - sourcesafe 사이즈 12GB
   - [vss2git](https://github.com/trevorr/vss2git) 수정하여 사용
+- 사내 테스트 관리 시스템 구축(2016년)
+  - [TESTLINK](http://testlink.org/)
+  - 구축 및 관리
 - 사내 테스트 자동화(2016년)
   - 자동 빌드 시스템과 연동
   - cppcheck, pmd, jshint, junit, emma, testlink 등
