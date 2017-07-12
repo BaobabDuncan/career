@@ -137,7 +137,7 @@
     - 전체 아키텍처 설계
     - 테스트 방안 및 구축
     - 모니터링 전략 수립
-    - AWS 가이드 
+    - AWS 가이드
 
 ### 사무환경을 위한 Smart Grid 솔루션 (한국에너지기술평가원)
 
@@ -160,7 +160,7 @@
     - 모니터링 시스템 Backend 설계 및 개발
     - 모니터링 시스템 Frontend 설계 및 개발
 
-- IT시스템을 이요한 IDC 전력절감 (정보통신진흥원)
+### IT시스템을 이요한 IDC 전력절감 (정보통신진흥원)
 
 IDC에 가동되고 있는 서버를 Openstack으로 마이그레이션하여 전력절감을 하는 프로젝트
 
@@ -195,9 +195,9 @@ Openstack 설치 및 관리
 
 - 소속회사
 
-- FORCS, MHR
+    - FORCS, MHR
 
--  주사용기술
+- 주사용기술
 
     - openstack, devstack, chef, fabric, shell script, django
 
@@ -303,7 +303,7 @@ Openstack 설치 및 관리
     - [연금복권 520](https://github.com/BaobabDuncan/us_pension_app) 개발 및 배포
     - [칭찬 듣기](https://github.com/BaobabDuncan/us_praised_app) 개발 및 배포
     - [금연 통장](https://github.com/BaobabDuncan/us_smoking_app) 개발 및 배포
- 
+
 ### Facebook App
 
 페이스북 앱 개발
@@ -327,16 +327,19 @@ Openstack 설치 및 관리
 
 ## Communication
 
-### 명지대학교(2011년)
+### 명지대학교(2011)
   - 하이브리드 앱 개발 강좌
-### Daum DevOn(2012년)
+### Daum DevOn(2012)
   - 오픈스택 활용에 대한 발표
-### Open Technet(2012년)
+### Open Technet(2012)
   - Chef를 이용한 자동화된 OpenStack 관리 발표
   - [site](http://www.oss.kr/oss_outevent/73723)
-### Django girls in seoul(2015년)
+### Django girls in seoul(2015)
   - 코치 참여
   - [site](https://djangogirls.org/seoul/)
 ### 비즈니스애널리스트포럼(2016년~)
-  - 회원으로 참여하여 지속적인 세미나 활동 
- 
+  - 회원으로 참여하여 지속적인 세미나 활동 및 발표
+### 서울혁신챌린지(2017)
+  - 블록체인 기술을 이용한 안전한 디지털서식 생성-유통-보관 서비스 개발 발표
+### 한국소프트웨어 아키텍트대회(2017.7.20)
+  - AWS를 이용한 Serverless 마이크로서비스 아키텍처 발표
